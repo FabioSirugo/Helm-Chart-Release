@@ -3,9 +3,9 @@ entries:
   Department_chart:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-06-29T09:06:25.575784006Z"
+    created: "2022-06-29T10:11:12.770506724Z"
     description: A Helm chart for Kubernetes
-    digest: 851286d94070c96f2eeb154accbb5c395061e5fb9d09bdac22ef3c9241193ed9
+    digest: afde61d2ee18eea94f1dd3fd3bf5d79dbe1dd0cf76472ced09dad5d34dd3e5e6
     name: Department_chart
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   Staff_chart:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2022-06-29T09:06:25.576138756Z"
+    created: "2022-06-29T10:11:12.770843611Z"
     description: A Helm chart for Kubernetes
-    digest: 82c8c3e32fa21f4d28933a4ed953311d80002d9907b555258a997d8757de3765
+    digest: 57b868e692c121b4a4f967f09de6e7e3fc74280f63a574a97b924398cba90e99
     name: Staff_chart
     type: application
     urls:
     - https://fabiosirugo.github.io/Helm-Chart-Release/Staff_chart-0.0.2.tgz
     version: 0.0.2
-generated: "2022-06-29T09:06:25.575212728Z"
+generated: "2022-06-29T10:11:12.769961665Z"
